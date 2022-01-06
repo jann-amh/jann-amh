@@ -1,6 +1,4 @@
-<img src="https://cdn.shopify.com/s/files/1/1061/1924/products/Waving_Hand_Sign_Emoji_Icon_ios10_large.png?v=1571606113" width="80" height="80" /><img src="https://cdn.7tv.app/emote/60af4158a564afa26e8d8ddf/3x" width="100" height="100" />
-
-![](https://vistr.dev/badge?repo=jann-amh.jann-amh)
+<img src="https://cdn.7tv.app/emote/60af6af257a061bbeff50651/3x" width="80" height="80" /><img src="https://cdn.betterttv.net/emote/609c38ed67644f1d67e84edc/3x" width="100" height="100" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" alt = "Jann GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jann-amh&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&hide_title=true" width="100%"/>
